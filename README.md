@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I am Facundo 👋
 
-<!--
-**fcastro97/fcastro97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio
+:video_game: Learning videogames development, in a autodidactic way.
+  - I love videogames
+  - Sometimes collaborating with the community, like i did with the Project Zomboid's community, making traductions to spanish on mods.
 
-Here are some ideas to get you started:
+:snake: I like 3D modelling please take look at my artstation profile although i am more focused on programming .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about whatever you want. 
+
+
+## How you can reach me?
+
+Linkedin: https://www.linkedin.com/in/fcastro97
+
+Artstation: https://facundocastro.artstation.com
