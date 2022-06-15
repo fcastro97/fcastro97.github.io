@@ -24,4 +24,6 @@ Artstation: https://facundocastro.artstation.com
 
 
 ## My stats (still developing myself)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcastro97&layout=compact&theme=radical)](https://github.com/fcastro97/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcastro97&theme=radical&show_icons=true)
